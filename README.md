@@ -20,7 +20,5 @@ SpaceX is a revolutionary company who has disrupt the space industry by offering
 9. [**Final Presentation (Slide)**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/SpaceX_compressed.pdf)
 
 
-### Acknowledgements 
 
-##### © Copyright IBM Corporation 1994, 2022.
-##### © Muhammad Faris Kamal 2022
+##### Freddie Barreto
