@@ -6,7 +6,11 @@
 
 ## Introduction
 
-SpaceX is a revolutionary company who has disrupt the space industry by offering a rocket launches specifically Falcon 9 as low as 62 million dollars; while other providers cost upward of 165 million dollar each. Most of this saving thanks to SpaceX astounding idea to reuse the first stage of the launch by re-land the rocket to be used on the next mission. Repeating this process will make the price down even further. As a data scientist of a startup rivaling SpaceX, the goal of this project is to create the machine learning pipeline to predict the landing outcome of the first stage in the future. This project is crucial in identifying the right price to bid against SpaceX for a rocket launch.
+SpaceX has transformed the space industry through innovation, offering Falcon 9 launches at just $62 million compared to competitors' prices exceeding $165 million. This dramatic cost reduction comes primarily from SpaceX's pioneering approach of recovering and reusing the first stage rocket by landing it safely after launch, with potential for even lower costs as reuse frequency increases.
+
+As a data scientist at a competing space startup, your task is to develop a machine learning system that can forecast whether a first stage will successfully land. This predictive model is vital for determining competitive pricing when bidding against SpaceX for launch contracts, as understanding landing success factors directly impacts cost structures and pricing strategy.
+
+
 
 ## Table of Contents
 1. [**Data Collection with API**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Data_Collection_yJPxhv2oU.ipynb)
